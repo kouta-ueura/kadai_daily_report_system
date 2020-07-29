@@ -1,4 +1,4 @@
-package controllers.toppage;
+package controllers.Toppage;
 
 import java.io.IOException;
 
